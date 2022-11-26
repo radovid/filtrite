@@ -1,0 +1,71 @@
+# Default entries from https://github.com/bromite/filters/blob/master/lists.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/raw/master/filters/filters.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/raw/master/filters/badware.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt
+https://easylist.to/easylist/easylist.txt
+https://easylist.to/easylist/easyprivacy.txt
+
+# AdGuard CNAME record trackers
+https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers.txt
+# AdGuard Base Filter
+https://filters.adtidy.org/extension/ublock/filters/2.txt
+# AdGuard Tracking Protection filter
+https://filters.adtidy.org/extension/ublock/filters/3.txt
+# AdGuard Mobile Ads Filter
+https://filters.adtidy.org/extension/ublock/filters/11.txt
+# Fanboy's Enhanced Tracking List
+https://fanboy.co.nz/enhancedstats.txt
+
+# Peter Lowe’s Ad and tracking server list
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0
+# MVPS Hosts
+https://winhelp2002.mvps.org/hosts.txt
+# Dan Pollock's hosts file
+https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/dan-pollock-someonewhocares-org.txt
+
+# BGR: Bulgarian Adblock list
+https://stanev.org/abp/adblock_bg.txt
+# Ad Removal List for Unusual Ads
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AdRemovalListForUnusualAds.txt
+# Fuck Fuckadblock
+https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt
+
+# Actually Legitimate URL Shortener Tool
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt
+# ClearURLs for uBo
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt
+
+# Dandelion Sprout's Anti-Malware List
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Dandelion%20Sprout's%20Anti-Malware%20List.txt
+# Block Outsider Intrusion into LAN
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/lan-block.txt
+# NoCoin Filter List
+https://raw.githubusercontent.com/brave/adblock-lists/master/coin-miners.txt 
+# Piperun's IP-Logger Filter
+https://raw.githubusercontent.com/piperun/iploggerfilter/master/filterlist
+
+# uBlock – Annoyances
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt
+# Fanboy's Annoyance List
+https://secure.fanboy.co.nz/fanboy-annoyance.txt
+# AdGuard Annoyances
+https://filters.adtidy.org/extension/ublock/filters/14.txt
+# I don't care about cookies
+https://www.i-dont-care-about-cookies.eu/abp/
+# Web Annoyances Ultralist
+https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
+
+# Anti-paywall filters
+https://raw.githubusercontent.com/llacb47/miscfilters/master/antipaywall.txt
+# Browse websites without logging in
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/uBO%20list%20extensions/BrowseWebsitesWithoutLoggingIn-uBOExtension.txt
+# Staying On The Phone Browser
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/stayingonbrowser/Staying%20On%20The%20Phone%20Browser
+
+# Fanboy's Anti-thirdparty Fonts
+https://fanboy.co.nz/fanboy-antifonts.txt
+# Block Google Fonts (by CrapBlock)
+https://raw.githubusercontent.com/theel0ja/CrapBlock/master/block-googlefonts.txt
+
+### This one will break some sites for sure.
