@@ -1,9 +1,19 @@
 # Default entries from https://github.com/bromite/filters/blob/master/lists.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/raw/master/filters/filters.txt
-https://raw.githubusercontent.com/uBlockOrigin/uAssets/raw/master/filters/badware.txt
+# uBlock filters – Badware risks
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
+# uBlock filters – Privacy
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
+# uBlock filters – Quick fixes
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/quick-fixes.txt
+# uBlock filters – Resource abuse
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
+# uBlock filters – Unbreak
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt
+
+# EasyList
 https://easylist.to/easylist/easylist.txt
+# EasyPrivacy
 https://easylist.to/easylist/easyprivacy.txt
 
 # AdGuard CNAME record trackers
@@ -56,16 +66,10 @@ https://www.i-dont-care-about-cookies.eu/abp/
 # Web Annoyances Ultralist
 https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
 
-# Anti-paywall filters
-https://raw.githubusercontent.com/llacb47/miscfilters/master/antipaywall.txt
-# Browse websites without logging in
-https://raw.githubusercontent.com/DandelionSprout/adfilt/master/uBO%20list%20extensions/BrowseWebsitesWithoutLoggingIn-uBOExtension.txt
-# Staying On The Phone Browser
-https://raw.githubusercontent.com/DandelionSprout/adfilt/master/stayingonbrowser/Staying%20On%20The%20Phone%20Browser
-
 # Fanboy's Anti-thirdparty Fonts
 https://fanboy.co.nz/fanboy-antifonts.txt
 # Block Google Fonts (by CrapBlock)
 https://raw.githubusercontent.com/theel0ja/CrapBlock/master/block-googlefonts.txt
 
 ### This one will break some sites for sure.
+
